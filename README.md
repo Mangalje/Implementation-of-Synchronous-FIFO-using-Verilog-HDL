@@ -1,1 +1,1 @@
-# Implementation-of-Synchronous-FIFO-using-Verilog-HDL
+# MIPS_32
